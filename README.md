@@ -4,3 +4,7 @@ Screenshoot
 ![logout](https://github.com/user-attachments/assets/697fb91a-223a-44bc-8c1a-fe31b3572152)
 ![tambahproduk](https://github.com/user-attachments/assets/65e374d8-979d-482c-945b-4cfc5f3aeab5)
 ![ubahproduk](https://github.com/user-attachments/assets/f9a7c519-1c67-479b-86b1-2b2ceb399c4f)
+![4](https://github.com/user-attachments/assets/81924cbe-b5fe-49df-a53c-868f78a063a8)
+![3](https://github.com/user-attachments/assets/70d6bdff-6184-4b98-a9d1-fdd798e0d178)
+![2](https://github.com/user-attachments/assets/454d1a3e-27ab-4bcc-84f9-4c0dab9cf794)
+![1](https://github.com/user-attachments/assets/a5623d9f-93e5-43b7-8493-b0392fadd552)
